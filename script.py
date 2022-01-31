@@ -4,7 +4,7 @@ class Script(object):
 
 ഞാൻ ഒരു 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐈𝐍𝐆 𝐁𝐎𝐓 ആണ്, എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ നോക്കി സമയം കളയണ്ട, എന്നെ 𝙈𝙤𝙫𝙞𝙚 𝙋𝙡𝙖𝙮 𝙏𝙀𝘼𝙈 ഗ്രൂപ്പിൽ മാത്രമേ ആഡ് ചെയ്യാൻ കഴിയൂ...!!! :)
 
-See <i>/help</i> for commands and more details.</b>
+See <i>My Abilities</i> In Movie Play Group.</b>
 """
 
 
@@ -51,9 +51,9 @@ See <i>/help</i> for commands and more details.</b>
 """
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Movie Play Bot 2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Movie Play Series Bot</b>
 
-⭕️<b>Creater :</b> @Mr_Lucifer_ll    
+⭕️<b>Creater :</b> @Curio_VolvEX   
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
